@@ -1,0 +1,57 @@
+/* POSITIONING */
+.rel {
+  position: relative!important;
+}
+.posa {
+  position: absolute;
+}
+.fxd {
+  position: fixed;
+}
+.pad10 {
+  padding: 10px;
+}
+.mar5 {
+  margin: 5px;
+}
+.w80 {
+  width: 80%;
+  max-width: 80%;
+}
+.mma {
+  margin-left: auto;
+  margin-right: auto;
+  float: none!important;
+}
+.tac {
+  text-align: center!important;
+}
+.fll {
+  float: left!important;
+}
+.flr {
+  float: right!important;
+}
+
+
+/* SIZE */
+.full {
+  width: 100%!important;
+}
+.half {
+  width: 50%!important;
+}
+.third {
+  width: 33%!important;
+}
+
+/* INPUT */
+.input-ln {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+/* TEXT */
+.tdk {
+  color: #292929!important;
+}

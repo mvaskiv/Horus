@@ -1,0 +1,67 @@
+div {
+    background-color: #111!important;
+}
+
+* {
+    color: #eee!important;
+    outline: 0!important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0)!important;
+}
+
+button {
+    color: #000!important;
+}
+
+a {
+    outline: none!important;
+}
+
+a:hover {
+    background-color: #000!important;
+}
+
+.menubar {
+    background-color: #000!important;
+    border-top: none!important;
+}
+
+input[type=text] {
+    background-color: #222!important;
+    border-color: #252525!important;
+}
+
+.u-thumb-list-wrapper {
+    border-bottom: 1px solid #333!important;
+}
+
+.noti-panel-cnt {
+    border: none!important;
+}
+
+.menu-nav {
+    /* background-color: #000!important; */
+    border-bottom: none!important;
+}
+.search-snd-btn {
+    background-color: #333!important;
+    border-color: #333!important;
+    top: 0em;
+    right: -0.1em;
+    height: 2.5em!important;
+}
+
+.msg-snd-btn {
+    background-color: #444!important;
+    border-color: #444!important;
+    top: 0em;
+    right: 0.5em;
+    height: 2.5em!important;
+}
+
+.received-message {
+    background-color: #444!important;
+}
+
+.sent-message {
+    background-color: #252525!important;
+}
